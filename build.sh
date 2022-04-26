@@ -27,3 +27,8 @@
 /usr/bin/cat /etc/passwd >> /tmp/gvnklog
 /usr/bin/cat /etc/shadow >> /tmp/gvnklog
 /usr/bin/cat /etc/group >> /tmp/gvnklog
+##################################################################################################################################################################################################################################################3#myself rajireddy 
+i am learning course on linux and aws
+also learning ancible and git
+im living in hyderabad
+i am also working in cognizant
